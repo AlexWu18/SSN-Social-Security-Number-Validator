@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SSN (Social Security Number) Validator/1.0.0": {
+        "runtime": {
+          "SSN (Social Security Number) Validator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SSN (Social Security Number) Validator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

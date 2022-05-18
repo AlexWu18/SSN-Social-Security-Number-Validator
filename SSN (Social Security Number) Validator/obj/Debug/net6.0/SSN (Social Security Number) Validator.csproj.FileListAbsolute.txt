@@ -1,0 +1,15 @@
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.csproj.AssemblyReference.cache
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.AssemblyInfoInputs.cache
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.AssemblyInfo.cs
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.csproj.CoreCompileInputs.cache
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\bin\Debug\net6.0\SSN (Social Security Number) Validator.exe
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\bin\Debug\net6.0\SSN (Social Security Number) Validator.deps.json
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\bin\Debug\net6.0\SSN (Social Security Number) Validator.runtimeconfig.json
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\bin\Debug\net6.0\SSN (Social Security Number) Validator.dll
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\bin\Debug\net6.0\SSN (Social Security Number) Validator.pdb
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.dll
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\refint\SSN (Social Security Number) Validator.dll
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.pdb
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\SSN (Social Security Number) Validator.genruntimeconfig.cache
+C:\Users\Carepeito\Desktop\SSN (Social Security Number) Validator\SSN (Social Security Number) Validator\obj\Debug\net6.0\ref\SSN (Social Security Number) Validator.dll
